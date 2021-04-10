@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    font-family: inherit;
+    font-weight: bold;
+    font-style: italic;
+    color: red;
+    background: linear-gradient(#0066ff 0%, #ff3300 100%);
+}
